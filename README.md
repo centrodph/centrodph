@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, my name is Gerardo Perrucci 👋
 
-My name is Gerardo Perrucci!
+
 
 <a href="https://github.com/centrodph/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=centrodph" />
@@ -22,10 +22,18 @@ Throughout my career journey, I have honed my craft in front-end development usi
 
 In recent years, while continuing to excel in front-end development with leading frameworks like React and Angular, I've also delved deeper into back-end technologies, particularly Java. Additionally, I've embarked on a journey exploring Python and data visualization, broadening my skill set to encompass a wider spectrum of technologies and applications. Whether it's crafting intuitive user interfaces or designing robust back-end systems, I approach each project with enthusiasm and a commitment to delivering high-quality solutions.
 
-[Twitter](https://twitter.com/GerardoPerrucci)
+## Social links
 
-[Linkedin](https://www.linkedin.com/in/gerardoperrucci/)
 
-[Instagram](https://www.instagram.com/gerardoperrucci)
-
-[Blog](https://centrodph.github.io/gerardo-perrucci/)
+<a href="https://twitter.com/GerardoPerrucci" width=50>
+  <img height=50 align="center" src="https://github.com/centrodph/centrodph/assets/2073951/3aed7f41-4fb8-4665-8df3-e90572578c04" />
+</a>
+<a href="https://www.linkedin.com/in/gerardoperrucci/" width=50>
+  <img height=50 align="center" src="https://github.com/centrodph/centrodph/assets/2073951/536410a4-dfb1-4990-b602-59bf435c0b75" />
+</a>
+<a href="https://www.instagram.com/gerardoperrucci" width=50>
+  <img height=50 align="center" src="https://github.com/centrodph/centrodph/assets/2073951/0a132ad6-7429-4f9e-abac-9275a5fd44fc" />
+</a>
+<a href="https://centrodph.github.io/gerardo-perrucci/" width=50>
+  <img height=50 align="center" src="https://github.com/centrodph/centrodph/assets/2073951/9158c4e7-2ef6-4723-bf00-f6b748e99b76" />
+</a>
