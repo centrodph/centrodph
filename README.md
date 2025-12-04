@@ -37,6 +37,6 @@ In recent years, while continuing to excel in front-end development with leading
   Instagram
 </a>
 <br/>
-<a href="https://centrodph.github.io/gerardo-perrucci/">
+<a href="http://gperrucci.com/">
   Blog
 </a>
