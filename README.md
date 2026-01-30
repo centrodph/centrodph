@@ -3,15 +3,17 @@
 
 ## About me
 
-With over 12 years of experience as a full stack developer, I bring a wealth of expertise in a diverse range of technologies to the table. For the past 8 years, I have served as a technical leader, actively involved in both team management and project oversight.
+Senior Full Stack Engineer with over 12 years of experience building scalable web architectures and leading distributed teams in Fintech, Gaming, and SaaS sectors. Expert in modernizing legacy systems, optimizing high-traffic applications, and defining technical strategy. Proficient in the **React** ecosystem (**Next.js**, Gatsby), TypeScript, **Nodejs**, Java (Spring Boot), and **Cloud Infrastructure (AWS)**. Proven track record of delivering critical migrations for major global clients. 
 
-In addition to my technical responsibilities, I have played a pivotal role in managing teams, handling estimations, and facilitating communication across cross-functional teams to ensure seamless project delivery.
+Skilled in React, Nodejs, Java, Python, **SQL**, and modern design systems, I excel at solving complex problems and delivering high-impact solutions. My approach blends deep technical knowledge with a genuine passion for continuous learning, mentoring others, and fostering collaborative, high-performance teams.
 
-My skill set encompasses leadership, problem-solving, research, analytical innovation, and proficiency in various software engineering techniques and design patterns. I pride myself on being a responsible, creative, honest, proactive team member who thrives in collaborative environments.
+## **Technical Expertise**
 
-Throughout my career journey, I have honed my craft in front-end development using Vanilla JavaScript, CSS, and HTML. Transitioning to server-side applications, I expanded my repertoire after pursuing careers in PHP and Java within Education IT. My proficiency extends to frameworks such as CodeIgniter, Symfony, and Spring/Spring Boot. Additionally, I possess strong competencies in SQL relational databases, including MySQL, PostgreSQL, Oracle, and SQLServer.
-
-In recent years, while continuing to excel in front-end development with leading frameworks like React and Angular, I've also delved deeper into back-end technologies, particularly Java. Additionally, I've embarked on a journey exploring Python and data visualization, broadening my skill set to encompass a wider spectrum of technologies and applications. Whether it's crafting intuitive user interfaces or designing robust back-end systems, I approach each project with enthusiasm and a commitment to delivering high-quality solutions.
+* **Frontend:** **React**, **Next.js**, **Gatsby**, TypeScript, JavaScript (ES6+), Redux, HTML5, CSS3, Tailwind CSS, Styled Components, D3.js, Playwright.  
+* **Backend:** **Node.js**, Java, **Spring Boot**, Python, **Express.js**, PHP, RESTful APIs, GraphQL, WebSockets.  
+* **Databases:** **PostgreSQL**, MySQL, SQL Server, Oracle, MongoDB, Supabase, Redis.  
+* **DevOps/Cloud:** **AWS**, Docker, Jenkins, CI/CD Pipelines, Netlify, Linux/Bash Scripting.  
+* **Architecture:** Microservices, Serverless, Headless CMS (ContentStack, Sanity), Enterprise Design Systems.
 
 ## Social links
 
